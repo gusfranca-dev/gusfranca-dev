@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Ribeiro França</h1>
 
 <h2 align="center">
-🚀 Desenvolvedor FullStack
+🚀 Desenvolvedor em crescimento
 </h2>
 
 <h3 align="center">
