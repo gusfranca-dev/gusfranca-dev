@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Gustavo Ribeiro França</h1>
 
-<!--
-**gusfranca-dev/gusfranca-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+🚀 Desenvolvedor FullStack
+</h2>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Focado em Front-End e desenvolvimento Web
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP <br>
+Apaixonado por tecnologia, interfaces modernas e desenvolvimento de aplicações escaláveis.
+</p>
+
+<br>
+
+<p align="center">
+<a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="mailto:guzribeirofranca@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1ERZqf313HBd0wPbE3e-hamysaF5hKNwv/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-Download-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+</p>
+
+
+# Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js," />
+
+</p>
+
+---
+
+# Projetos em Destaque
+
+### Em construção
