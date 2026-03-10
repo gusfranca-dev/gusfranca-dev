@@ -16,7 +16,7 @@ Apaixonado por tecnologia, interfaces modernas e desenvolvimento de aplicações
 <br>
 
 <p align="center">
-<a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavo-ribeiro-fran%C3%A7a/"><img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;&nbsp;
 <a href="mailto:guzribeirofranca@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;&nbsp;
